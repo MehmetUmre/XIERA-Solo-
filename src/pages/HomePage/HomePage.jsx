@@ -1,10 +1,9 @@
-import { Example } from "../../components/Example/Example"
-
+import { Example } from "../../components/Example/Example";
 
 export const HomePage = () => {
   return (
     <div>
-        <Example />
+      <Example />
     </div>
-  )
-}
+  );
+};
